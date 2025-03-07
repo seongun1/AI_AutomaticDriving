@@ -7,7 +7,20 @@
 ![robotgif](images/robot_working.gif)
 ## 기술 스택
 
-- Language
+### AI Training framework
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
+
+### Image Detection
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+
+### Robot Operation
+<img src="https://img.shields.io/badge/ros(noetic)-22314E?style=for-the-badge&logo=ros&logoColor=white">
+
+### System Operation
+<img src="https://img.shields.io/badge/ubuntu(18.04)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+### Web
+<img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 
 ## 특징
@@ -45,6 +58,7 @@
 
 ## 배송로봇 사양
 ![HW_introduce](images/HW_introduce.png)
+![robot](images/robot.jpg)
 
 ## 조립도
 ![조립도](images/조립도.png)
@@ -65,9 +79,3 @@
 ## SLAM Mapping
 
 ![3F_VER.01](images/3F_VER.01.jpg)
-
-
-
-## 실제 구현 사진
-
-![robot](images/robot.jpg)
