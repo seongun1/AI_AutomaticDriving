@@ -116,7 +116,7 @@
 
 ## Block Diagram
 
-![Block Diagram](images/Block Diagram.png)
+![Block Diagram](images/Block_Diagram.png)
 
 ## 기간
 
