@@ -22,7 +22,7 @@
 
 ---
 
-![미션 시나리오2](imagesMisson_Senario2.png)
+![미션 시나리오2](images/Misson_Senario2.png)
 
 ## Block Diagram
 
