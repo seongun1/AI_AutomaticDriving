@@ -2,6 +2,8 @@
 
 # AI를 통한 자율주행 배달로봇
 
+> 2025.02.03 - 2025.02.28
+
 ![robotgif](images/robot_working.gif)
 ## 기술 스택
 
@@ -39,13 +41,11 @@
 
 ![Block Diagram](images/Block_Diagram.png)
 
-## 기간
-
-- 2025 - 02 - 03 ~ 2025 - 02 - 28
 
 
 ## 배송로봇 사양
 ![HW_introduce](images/HW_introduce.png)
+
 > 크기 : 500 x 550 x 750 (mm)
 > 중량 : 30kg
 > 가반 하중 : 60kg
@@ -64,12 +64,13 @@
 > 보조 캐스터 : 2 inch Wheel 서스팬션 타입
 
 ## 조립도
-![조립도](images/조립도,png)
+![조립도](images/조립도.png)
 
 ## 회로도
 
 
 ![회로도](images/회로도.png)
+
 전장 재료 리스트
 
 - MD 200T
