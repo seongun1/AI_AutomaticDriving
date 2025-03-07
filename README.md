@@ -18,11 +18,11 @@
 
 ### 미션 시나리오
 
-![미션 시나리오](images/Mission_Senario.png)
+![미션 시나리오](images/Misson_Senario.png)
 
 ---
 
-![미션 시나리오2](images/Mission_Senario2.png)
+![미션 시나리오2](imagesMisson_Senario2.png)
 
 ## Block Diagram
 
