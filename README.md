@@ -46,33 +46,29 @@
 ## 배송로봇 사양
 ![HW_introduce](images/HW_introduce.png)
 
-> 크기 : 500 x 550 x 750 (mm)
-> 중량 : 30kg
-> 가반 하중 : 60kg
-> 운영체제 : ubuntu 18.04
-> 임베디드 보드 : NVIDIA Jetson NANO 4GB
+-크기 : 500 x 550 x 750 (mm)
+- 중량 : 30kg
+- 가반 하중 : 60kg
+- 운영체제 : ubuntu 18.04
+- 임베디드 보드 : NVIDIA Jetson NANO 4GB
 	CPU : 4-core ARM A57@1.43GHz
 	GPU : nvidia 128-core maxwell
 	I/O : GPIO, IC2, SPI, UART
-> 디스플레이 : 13인치 터치 디스플레이
-> 카메라 : IPX 광각 130도
-> 배터리 : 12V 9Ah * 2
-> 라이다 : RPLidar A1
-> 전원 공급 : DC
-> 모터 컨트롤러 : 200W 2ch 드라이버
-> 구동 모터 : 24V DC 100W 인휠모터
-> 보조 캐스터 : 2 inch Wheel 서스팬션 타입
+- 디스플레이 : 13인치 터치 디스플레이
+- 카메라 : IPX 광각 130도
+- 배터리 : 12V 9Ah * 2
+- 라이다 : RPLidar A1
+- 전원 공급 : DC
+- 모터 컨트롤러 : 200W 2ch 드라이버
+- 구동 모터 : 24V DC 100W 인휠모터
+- 보조 캐스터 : 2 inch Wheel 서스팬션 타입
 
 ## 조립도
 ![조립도](images/조립도.png)
 
 ## 회로도
-
-
 ![회로도](images/회로도.png)
-
 전장 재료 리스트
-
 - MD 200T
 - PDIST30
 - MDH80
