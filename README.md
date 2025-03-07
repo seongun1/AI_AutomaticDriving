@@ -2,7 +2,7 @@
 
 # AI를 통한 자율주행 배달로봇
 
-![robotgif](images/robot_going.mp4)
+![robotgif](images/robot_working.gif)
 ## 기술 스택
 
 - Language
